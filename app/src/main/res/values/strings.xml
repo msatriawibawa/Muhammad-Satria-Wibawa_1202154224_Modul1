@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Muhammad Satria Wibawa_1202154224_Modul1</string>
+    <string name="makan_malam">Makan Malam</string>
+    <string name="dengan_milea">Dengan Milea</string>
+    <string name="jenis_makanan">Jenis Makanan</string>
+    <string name="berapa_porsi">Berapa Porsi ?</string>
+    <string name="eatbus">EATBUS</string>
+    <string name="abnormal">ABNORMAL</string>
+    <string name="menu">Menu</string>
+    <string name="porsi">Porsi</string>
+    <string name="harga">Harga</string>
+</resources>
